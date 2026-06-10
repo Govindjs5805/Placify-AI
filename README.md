@@ -66,5 +66,3 @@ Example:
 **₹12.4 LPA**
 
 ---
-
-## 📂 Project Structure
