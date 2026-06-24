@@ -6,7 +6,6 @@ import joblib
 # ─── Page Configuration ───────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Placify AI – Placement Predictor",
-    page_icon="🚀",
     layout="wide"
 )
 
